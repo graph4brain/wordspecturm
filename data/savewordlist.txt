@@ -1,0 +1,10 @@
+[address]
+adelaide,airport,beach,brisbane,campus,hill,hotel,hpa,mainland,melbourne,nsw,queensland,perth,sydney,vic
+[UQ]
+uq,university,sleep,lucia,qut,griffith
+[topic]
+gold,coast,humidity,initiate,rain,temperature,wind,lucia,qut,course,dog,gym,train,st
+[time]
+breakfast,lunch,dinner,sleep,bed,night,god
+[events]
+police,drug,marriage,australia,traffic
